@@ -1,0 +1,17 @@
+{
+  "name": "mapbox-p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@deck.gl/core": "^8.6.7",
+    "@deck.gl/geo-layers": "^8.6.7",
+    "@deck.gl/layers": "^8.6.7",
+    "@deck.gl/mesh-layers": "^8.6.7"
+  }
+}
